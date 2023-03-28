@@ -1,2 +1,2 @@
 # coding-topics
-Coding questions
+- Sum_digits_of_num.c
