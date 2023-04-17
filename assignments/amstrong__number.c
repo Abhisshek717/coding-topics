@@ -22,7 +22,7 @@ int printAmstrong(int n){
     printf("%d",cubesum(n));
 }
 
-isAmstrong(int n){
+void isAmstrong(int n){
     if(cubesum(n) == n){
         printf("the number is a amstrong number");
     }
