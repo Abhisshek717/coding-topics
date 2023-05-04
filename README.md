@@ -22,3 +22,6 @@
 - Write a program to find the maximum subarray sum of an array of integers. `#basic`
 - Write a program to implement binary search on a sorted array of integers. `#basic` `#searching`
 - Write a program to implement linear search on an unsorted array of integers. `#basic` `#searching`
+
+## Answers
+[Answers](coding-topics/Answers.md)
