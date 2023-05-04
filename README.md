@@ -24,4 +24,4 @@
 - Write a program to implement linear search on an unsorted array of integers. `#basic` `#searching`
 
 
-[Answers](coding-topics/answers.md)
+[Answers](answers.md)
